@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+/* css reusable */
+.contact-btn {
+  @apply px-4 py-2 bg-transparent border border-primary text-primary 
+  rounded hover:bg-primary hover:text-white transition-all duration-300
+}
+
+.border-bottom-css {
+  border-bottom: 4px solid #5e3bee;
+}
+
+header {
+  z-index: 10001 !important;
+}

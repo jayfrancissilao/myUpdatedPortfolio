@@ -1,0 +1,51 @@
+[
+    {
+        "id" : 1,
+        "name" : "Html"
+    },
+    {
+        "id" : 2,
+        "name" : "Css"
+    },
+    {
+        "id" : 3,
+        "name" : "Tailwind Css"
+    },
+    {
+        "id" : 4,
+        "name" : "Boostrap"
+    },
+    {
+        "id" : 5,
+        "name" : "Figma"
+    },
+    {
+        "id" : 6,
+        "name" : "Photoshop"
+    },
+    {
+        "id" : 7,
+        "name" : "Adobe Pr"
+    },
+    {
+        "id" : 8,
+        "name" : "Javascript"
+    },
+    {
+        "id" : 9,
+        "name" : "React Js"
+    },
+    {
+        "id" : 10,
+        "name" : "Git"
+    },
+    {
+        "id" : 11,
+        "name" : "Github"
+    },
+    {
+        "id" : 12,
+        "name" : "Adobe illustrator"
+    }
+    
+]
